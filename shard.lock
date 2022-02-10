@@ -1,0 +1,10 @@
+version: 2.0
+shards:
+  fast_irc:
+    git: https://github.com/rx14/fast_irc.cr.git
+    version: 0.3.4+git.commit.9c295655b1e9a52f6fd2539e788058cfdaef913f
+
+  ircbot:
+    git: https://github.com/takeiteasy/ircbot.cr.git
+    version: 0.1.0+git.commit.8a41b7ce339f248448d6eab49cacd04df11b0d94
+
